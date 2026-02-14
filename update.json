@@ -1,0 +1,7 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1",
+  "apkUrl": "https://example.com/app-release.apk",
+  "force": false,
+  "changelog": "- Added self-update system\n- Bug fixes"
+}
