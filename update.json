@@ -1,8 +1,9 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
-  "apkUrl": "https://example.com/app-release.apk",
+  "versionCode": 4,
+  "versionName": "1.3",
+  "apkUrl": "https://release-assets.githubusercontent.com/github-production-release-asset/396714678/5434c090-7549-473e-a663-76353f687659?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-02-15T05%3A30%3A50Z&rscd=attachment%3B+filename%3DMtz-installer1.2.apk&rsct=application%2Fvnd.android.package-archive&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-02-15T04%3A30%3A32Z&ske=2026-02-15T05%3A30%3A50Z&sks=b&skv=2018-11-09&sig=206uhVXHm5zAUAF7NzKKaJnlzdHWiKCAClk%2FuoIJFNI%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3MTEzMTY5NywibmJmIjoxNzcxMTMxMzk3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.G0b3jhrBol0YJ3XzltsVnEvAyql-s4a2C_g38A4Y8LM&response-content-disposition=attachment%3B%20filename%3DMtz-installer1.2.apk&response-content-type=application%2Fvnd.android.package-archive",
   "force": false,
   "changelog": "- Added self-update system\n- Bug fixes"
 }
+
 
