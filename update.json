@@ -1,0 +1,11 @@
+{
+  "versionCode": 4,
+  "versionName": "2.1",
+  "apkUrl": "https://play.google.com/store/apps/details?id=com.guffyapps.mtzeditor",
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.guffyapps.mtzeditor",
+  "force": false,
+  "minSupportedVersionCode": 1,
+  "title": "MTZ Editor v2.1 Beta",
+  "changelog": "- Support email updated to support@mobilelover.in\n- In-app bug reporting & diagnostic system\n- Google Play Store compliance & policy updates\n- HyperOS & MIUI theme compilation & XML parsing improvements\n- Performance enhancements and stability fixes"
+}
+
