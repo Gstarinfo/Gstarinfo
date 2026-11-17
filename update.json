@@ -6,8 +6,6 @@
   "force": true,
   "minSupportedVersionCode": 1,
   "title": "MTZ Editor v2.1.12",
-  "changelog": "- Fix XML Editor Crash 
-- improve storage permission
-- Imorove performence"
+  "changelog": "- Fix XML Editor Crash - improve storage permission - Imorove performence"
 }
 
